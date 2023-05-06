@@ -72,7 +72,7 @@ if (ch.length === 1) {
 
 //Q5 
 
-Step 1: Store correct password in a variable
+// Step 1: Store correct password in a variable
 var correctPassword = "mypassword";
 // Step 2: Ask user to enter password
 var userPassword = prompt("Enter your password");
